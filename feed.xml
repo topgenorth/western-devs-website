@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Western Devs</title>
+    <description>We&#39;re but a humble group of amazing developers with a  common trait: we&#39;re all west of somewhere else.
+</description>
+    <link>http://www.westerndevs.com/</link>
+    <atom:link href="http://www.westerndevs.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 20 Jun 2015 15:28:20 -0400</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2015 15:28:20 -0400</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>We&#39;re all west of someplace</title>
+        <description>&lt;p&gt;Western Devs is live!&lt;/p&gt;
+
+&lt;p&gt;Some years ago, a…unique…group of developers would gather at conferences and talk. They’d talk about software practices, interesting tools, and smoked meat. Whatever the topic, it was always lively and, on occasion, productive.&lt;/p&gt;
+
+&lt;p&gt;Eventually, a young visionary by the name of Dave Woods formed an ad hoc mailing list for these developers to continue the conversation between conferences. Members came and went and the list eventually moved to Slack. But over the years, the underlying conversations remained the same, low on ego, high on either technical content or entertainment value, often both.&lt;/p&gt;
+
+&lt;p&gt;WesternDevs.com is our attempt to bring that value to the masses. In these pages, you’ll delve into the hearts, the minds, indeed the very &lt;em&gt;souls&lt;/em&gt; of the people behind WesternDevs. And you’ll come out the richer for it.&lt;/p&gt;
+
+&lt;p&gt;So welcome to our little cabana. Look around and join the conversation.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 17 Jun 2015 16:09:05 -0400</pubDate>
+        <link>http://www.westerndevs.com/2015/06/17/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://www.westerndevs.com/2015/06/17/welcome-to-jekyll.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Thoughts on building, making, being positive, fearing failure, and smoking meat</title>
+        <description>&lt;p&gt;I was recently gifted a smoker from my awesome Prairie Dev Con speakers – an electric Bradley 4 rack smoker! Upon reading the instructions, I realized that due to the “electronic” nature of the device, it can’t just be left outside to the elements like a BBQ can. So I started looking around at custom enclosures people were building and got some ideas. Now, I’m &lt;em&gt;not&lt;/em&gt; what you would call a handy-man type of guy. I didn’t grow up doing carpentry projects or working on cars or anything like that, but regardless yesterday I built it. Here’s what it looks like (still needs stain and one more piece of plywood for the back)…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://gwb.blob.core.windows.net/dlussier/WindowsLiveWriter/ThoughtsonBuildingMakingBeingPositiveFea_A71D/SmokerEnclosure_thumb.png&quot; alt=&quot;SmokerEnclosure&quot; title=&quot;SmokerEnclosure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The experience was fantastic – I had my daughters help me with most of the construction, so we were able to make this a quality-time project building something together. I also got to use some tools I received as an office Christmas gift from years back that I hadn’t before. And I learned a lot – even though I know there are things I would have done differently in retrospect, and things I know I’d like to tweak with it even after its “finished”, it was a fantastic learning experience.&lt;/p&gt;
+
+&lt;p&gt;I was really encouraged at Prairie Dev Con earlier this month in Regina. We had a number of hands-on-labs that were very well attended and I was in awe of how willingly people were to jump in and try something hands on that’s new to them. This ‘makers’ movement in the IoT space, and also people willing to learn new ways of doing web development (as one commenter put it “ready to start using new skills at work right away!”) was really exciting to see. And it inspired me to “make” more.&lt;/p&gt;
+
+&lt;p&gt;I’ve been scared at times to try something new – actually it wasn’t even the “starting”, but more of the possible failing. I don’t know if its &lt;a href=&quot;http://www.hanselman.com/blog/ImAPhonyAreYou.aspx&quot;&gt;a case of imposter syndrome&lt;/a&gt; or not wanting to come across as being inept or what. But the first step, the first movement on a journey, can be the beginning of something awesome. The positive What If as opposed to the negative. The possibilities instead of the pitfalls. The rewards instead of the costs.&lt;/p&gt;
+
+&lt;p&gt;One thing I’ve learned is that the true feeling of success doesn’t come from outside, but from within. That feeling of accomplishment that you receive when you complete something – even if that something isn’t 100% perfect. I approached the enclosure project like an agile software project – this was iteration 1, done in a day, and with a retrospective of what I’d have done differently next time. And its functional, which is great because I want to start smoking some meat. :)&lt;/p&gt;
+
+&lt;p&gt;I feel like I’m rambling a bit – look, here’s the thing. MAKE STUFF. BUILD STUFF. EXPERIMENT WITH STUFF. Don’t allow external pressures or fears of “Am I good enough”, “Will I be accepted?”, “Doesn’t anything I do need to be perfect?”, and their ilk ruin your ability to have new experiences, in life or at work.&lt;/p&gt;
+
+&lt;p&gt;In a few weeks I’ll be starting on a new adventure. I’ll be working with a new team, in a new domain, on systems that are new to me. And I’m excited, even with all the unknowns, because I can’t wait to see what I can help build with my colleagues. I never want those nagging, negative “What Ifs” to get in the way of what’s possible.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 14 Jun 2015 16:09:05 -0400</pubDate>
+        <link>http://www.westerndevs.com/2015/06/14/thoughts-on-building-making.html</link>
+        <guid isPermaLink="true">http://www.westerndevs.com/2015/06/14/thoughts-on-building-making.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Rethinking our practices with the MVC framework</title>
+        <description>&lt;p&gt;We get set in our ways, don’t we? It’s funny how the sharper and more confident we get with our frameworks and the tooling we employ to work with them, we also get a little more attached to our way of doing things. And then along comes a major version change, ripe with breaking changes and new bits to twiddle and we’re left saying, “But, that’s not how we’ve always done it!”.&lt;/p&gt;
+
+&lt;p&gt;Case in point: &lt;strong&gt;service injection into views&lt;/strong&gt;. In ASP.NET’s MVC Framework 6 we get this new concept which, if we’re going to accept, requires that we relax on our thinking of how we’ve always done things.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;My friends &lt;a href=&quot;https://twitter.com/dave_paquette&quot;&gt;Dave Paquette&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/stimms&quot;&gt;Simon Timms&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/canadianjames&quot;&gt;myself&lt;/a&gt; have been ruffling through a few of these types of changes, and Simon did a great job of illustrating how we used to get data into our views, and how we might do it in &lt;a href=&quot;http://blog.simontimms.com/2015/06/09/getting-lookup-data-into-you-view/&quot;&gt;tomorrow’s MVC&lt;/a&gt;.  For a walkthrough of service injection I highly recommend his article on it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;How does it work? The new inject feature gives us the ability to asynchronously invoke methods on classes that are dynamically created and given to our view. It’s IoC for your UI.&lt;/p&gt;
+
+&lt;p&gt;Personally, I’d been wrestling with a good use case here because we had a way to do it, and it seems an obvious one (illustrated by Simon) had been missing my thought stream, likely because it’s been clouded for a few years with ViewBag. In all reality, the idea of using the ViewBag – a dynamic object that is double-blind, easily forgotten about and easily polluted – to push bits of data to the view has always kind of bugged me, no less than using filters did, but we didn’t have an elegant, framework-driven mechanism to make it happen more gracefully.  We do now.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Also, let’s not confuse things here: In more cases than not, your ViewModel is going to be the correct place to put your data, and where I’ve put my data for most things – like drop down lists – but this type of feature is exciting because it opens the door to explore new options in building views and experiences for our users.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;but-doesnt-it-break-the-design-of-mvc&quot;&gt;But, doesn’t it break the design of MVC?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://jameschambers.com/wp-content/uploads/2015/06/nuke-300x188.jpg&quot; alt=&quot;Source: http://www.nv.doe.gov/library/photos/&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sometimes things blow up when you try them out, but you still gotta try.&lt;/p&gt;
+
+&lt;p&gt;Perhaps. Maybe, if you want to say, “The only definition valid for any framework is the original definition.” But we have more tools today to do our job, and in particular for this case dependency injection which has become a first-class citizen in ASP.NET. So, let’s rewind a bit and ask, why is it a bad practice to give a component the pieces it needs to do its work?&lt;/p&gt;
+
+&lt;p&gt;Let’s think of the type of problem that we’re trying to solve here, as Simon did in his article: a view needs to populate a dropdown list. It doesn’t need to access the database, and it shouldn’t have it. It doesn’t need to know a connection string, or if data is coming from a cache, a web service or otherwise, it just needs the data. Giving it an interface by which to look it up, well, to me that seems like a good idea.&lt;/p&gt;
+
+&lt;p&gt;If instead you favor the approach of using the controller to populate the ViewBag or use filters (or other techniques) you inherently introduce coupling to a specific view in the controller by forcing it to look up data to populate a dropdown box. &lt;em&gt;You are still injecting data into the view.&lt;/em&gt; In my mind, the controller should know as little as possible about the view.  Why should I have to change my controller if I need to change my view?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I want to make a clear distinction here, though, as I do believe the controller answers very specific concerns, namely, those that deal with a particular entity. But the PersonController shouldn’t have to know the list of Canadian Provinces, should it?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;dont-need-to-know-where-im-going-just-need-to-know-where-ive-been&quot;&gt;Don’t need to know where I’m going, just need to know where I’ve been&lt;/h2&gt;
+
+&lt;p&gt;The assumption that the controller provides everything the view needs is guided by past pretence. It was true in MVC5 and earlier because it was what we had to work with. My point is that in MVC6 we now have a construct that allows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Separation of concern/single responsibility&lt;/li&gt;
+  &lt;li&gt;Testability&lt;/li&gt;
+  &lt;li&gt;Type safety&lt;/li&gt;
+  &lt;li&gt;Injectable dependencies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In my mind, the controller is just a component. So is the view. The controller’s concerns are related to the entity in question. The view is required to render correct UI such that a form can be filled out in a way that satisfies the requirements of the view model. Again, why use a person controller to retrieve details about countries and states?&lt;/p&gt;
+
+&lt;p&gt;I don’t see controllers as any more important than any other component. They have things they need, and they should have those things injected. My controllers don’t talk to the database, they talk to command objects and query objects via interface and those are injected from an IoC container.&lt;/p&gt;
+
+&lt;p&gt;I think now, with views as first-class components, that we can look at views in the same way.&lt;/p&gt;
+
+&lt;h2 id=&quot;but-what-about-viewbag&quot;&gt;But what about ViewBag?&lt;/h2&gt;
+
+&lt;p&gt;With ViewBag (and filters) we have a problem that we’re not really talking about in the best interest of not upsetting anyone. The fact that my controller has to do the lifting for the combo boxes is awkward and doesn’t really help us out too much with maintaining SRP. But we didn’t previously have a good way to address this.&lt;/p&gt;
+
+&lt;p&gt;We also tend to overlook the fact that Views are effectively code. Why can’t our principles apply to them as well? Of course I shouldn’t access the database from the view, but why can’t I know about an interface that does (and have it injected)?&lt;/p&gt;
+
+&lt;p&gt;This is a great use case of this new feature, and one that demonstrates that “not changing for the sake of not changing” isn’t a good mantra. If my view code/class/script is responsible for rendering the view, I see no problem injecting into it the things it needs to do so.&lt;/p&gt;
+
+&lt;p&gt;After all, isn’t that what you’re doing with ViewBag? Just injecting things into the view through the Dynamic? Except, with ViewBag, no one sees type problems and everyone has to cast. Now we’ve got run time errors.&lt;/p&gt;
+
+&lt;p&gt;There is the argument that says that even if we’re abstracting away the data access, we’re introducing the ability for the view to call the database. Again, I don’t think the view is any less important a component in the scheme of things, and there is a level of appropriateness with which we must use the feature. Will it be abused? Likely. You don’t want to be injecting database change-capable components into the view, but that is more a case of bad choices in implementation. You can completely destroy the maintainability of a project and wreak havoc on your users with service injection, but that doesn’t mean you should avoid it. I’ve seen people write 1,000 lines of code in a method, but that doesn’t mean I don’t use methods any more.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When changes come to frameworks, I think it’s okay to rethink our best practices&lt;/strong&gt;. Taking Simon’s approach we have:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Interface-based injection&lt;/li&gt;
+  &lt;li&gt;Abstraction from underlying data access strategy (db, cache, text file, whatever)&lt;/li&gt;
+  &lt;li&gt;Testable components&lt;/li&gt;
+  &lt;li&gt;Maintaining SRP in our controller and view&lt;/li&gt;
+  &lt;li&gt;No casting from dynamic to proper types&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’m okay with this approach and will be using this approach in MVC 6 projects.&lt;/p&gt;
+
+&lt;p&gt;I highly encourage you to do your own reading on this and explore the feature in greater detail. Here are a few links for your consideration.&lt;/p&gt;
+
+&lt;p&gt;Happy coding! &lt;img src=&quot;http://jameschambers.com/wp-content/uploads/2015/06/wlEmoticon-smile.png&quot; alt=&quot;Smile&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image credit: http://www.nv.doe.gov/library/photos/&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 14 Jun 2015 16:09:05 -0400</pubDate>
+        <link>http://www.westerndevs.com/2015/06/14/rethinking-our-practices-with-the-mvc-framework.html</link>
+        <guid isPermaLink="true">http://www.westerndevs.com/2015/06/14/rethinking-our-practices-with-the-mvc-framework.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Conference recap extravaganza!</title>
+        <description>&lt;p&gt;I’ve been head down preparing and delivering presentations all over the place for the past few weeks, and wanted to share the latest happenings, along with where you can get your hands on the material if you weren’t able to attend.&lt;/p&gt;
+
+&lt;p&gt;If you’re not interested in the retrospective, then you can head over to my &lt;a href=&quot;http://www.davidwesst.com/talks&quot;&gt;talks page&lt;/a&gt; to get the skinny and the resources.&lt;/p&gt;
+
+&lt;h3 id=&quot;computer-science-career-awesomeness&quot;&gt;Computer Science Career Awesomeness&lt;/h3&gt;
+
+&lt;p&gt;Grant Park High School was kind of to invite me down and give me control of the computer science class for an hour to talk about “Careers in Computer Science”. Being that this is something I often end up hearing or discussing with my peers in the tech community, I figured it would be a good chance to share my knowledge with the future Zuckerberg’s and Gates’ of the world.&lt;/p&gt;
+
+&lt;p&gt;Although I didn’t record the engaging conversation with the students, I did manage to make an &lt;a href=&quot;https://mix.office.com/watch/1awyqexjvlhq4&quot;&gt;online presentation &lt;/a&gt; that goes through the supporting slides. If you’re at all interested, definitely take a look and share your feedback with me here in the comments or via &lt;a href=&quot;https://twitter.com/davidwesst&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;prairie-dev-con-2015----regina-sk&quot;&gt;Prairie Dev Con 2015 – Regina, SK&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.davidwesst.com/content/images/2015/06/PrDCLogo_Small.png&quot; alt=&quot;&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;Here I delivered two presentations: Learning to be IDE Free (Java Edition) and 5 Reasons Why Your Website Isn’t a Native App. The latter is a re-imagining of my Winnipeg talk entitled “From Web to Device: A JavaScript Story”, where I received some great feedback from &lt;a href=&quot;https://twitter.com/loriblalonde&quot;&gt;Lori Lalonde&lt;/a&gt; and &lt;a href=&quot;https://mariocardinal.wordpress.com/&quot;&gt;Mario Cardinal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The presentation transformed from, what was supposed to be a happy tale of how fantastic is it is to share JavaScript code between web and device projects, to a blunt conversation about just because you &lt;em&gt;can&lt;/em&gt; do something doesn’t mean you &lt;em&gt;should&lt;/em&gt;. We focused on the development points, and so far the feedback has been great.&lt;/p&gt;
+
+&lt;p&gt;No online presentation or demo recordings are available yet, but you can get the slides and source code &lt;a href=&quot;http://www.davidwesst.com/talks&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;csonhs-2015-annual-meetup&quot;&gt;CSONHS 2015 Annual Meetup&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.davidwesst.com/content/images/2015/06/entcanada-program.png&quot; alt=&quot;&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;What you’ve never heard of the Canadian Society of Otolaryngology - Head &amp;amp; Neck Surgery? Well, I have and managed to meet and work with some fantastic physicians and educators during my time working for the Faculty of Health Sciences. One of my many projects, along with being part of the Committee for Online Learning (or CoOL the group) lead me to becoming the sort of “tech expert” on some of the new systems installed and used for improving medical education.&lt;/p&gt;
+
+&lt;p&gt;I realize it’s bit of a departure from what I normally discuss, but that was the idea: to change it up a bit. So far, it has proven to be a very interesting area for me and I hope to stay involved and provide technical expertise to physician educators looking to engage new tech. Plus, with things like &lt;a href=&quot;http://www.case.edu/hololens/&quot;&gt;HoloLens &lt;/a&gt;and &lt;a href=&quot;https://www.microsoft.com/microsoft-band/en-us/developer&quot;&gt;Microsoft Band&lt;/a&gt;, I think the healthcare and the health education landscape is about to see some major changes.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-point&quot;&gt;The Point&lt;/h2&gt;
+
+&lt;p&gt;No real point other than to share the awesomely busy month I’ve had sharing and networking around technology and that you can expect to find more of my “talks” show up on the &lt;a href=&quot;http://davidwesst.com/talks/&quot;&gt;talks page&lt;/a&gt; of the site.&lt;/p&gt;
+
+&lt;p&gt;Thanks for playing. ~ DW&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 11 Jun 2015 16:09:05 -0400</pubDate>
+        <link>http://www.westerndevs.com/2015/06/11/conference-recap-extravaganza.html</link>
+        <guid isPermaLink="true">http://www.westerndevs.com/2015/06/11/conference-recap-extravaganza.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Getting lookup data into your view ASP.net MVC 6 version</title>
+        <description>&lt;p&gt;This is a super common problem I encounter when building ASP.net MVC applications. I have a form that has a drop down box. Not only do I need to select the correct item from the edit model to pick from the drop down but I need to populate the drop down with the possible values.&lt;/p&gt;
+
+&lt;p&gt;Over the years I’ve used two approaches to doing this. The first is to push into the ViewBag a list of values in the controller action. That looks like&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;public ActionResult Edit(int id){
+    var model = repository.get(id);
+    ViewBag.Provinces = provincesService.List();
+
+    return View(model);
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then in the view you can retrieve this data and use it to populate the drop down. If you’re using the HTML helpers then this looks like&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;@Html.DropDownListFor(x=&amp;gt;x.province, (IEnumerable)ViewBag.Provinces)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This becomes somewhat messy when you have a lot of drop downs on a page. For instance consider something like&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;public ActionResult Edit(int id){
+  var model = repository.get(id);
+
+    ViewBag.Provinces = provincesService.List();
+    ViewBag.States = statesService.List();
+    ViewBag.StreetDirections = streetDirectionsService.List();
+    ViewBag.Countries = countriesService.List();
+    ViewBag.Counties = countiesService.List();
+
+    return View(model);
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The work of building up the data in the model becomes the primary focus of the view. We could extract it to a method but then we have to go hunting to find the different drop downs that are being populated. An approach I’ve taken in the past is to annotate the methods with an action filter to populate the ViewBag for me. This makes the action look like&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[ProvincesFilter]
+[StatesFilter]
+[StreetDirectionsFilter]
+[CountriesFilter]
+[CountiesFilter]
+public ActionResult Edit(int id){
+  var model = repository.get(id);
+  return View(model);
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;One of the filters might look like&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;public override void OnActionExecuting(ActionExecutingContext filterContext)
+{
+    var countries = new List();
+    if ((countries = (filterContext.HttpContext.Cache.Get(GetType().FullName) as List)) == null)
+    {
+        countries = countriesService.List();
+    }
+    filterContext.Controller.ViewBag.Countries = countries;
+    base.OnActionExecuting(filterContext);
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This filter also adds a degree of caching to the request so that we don’t have to keep bugging the database.&lt;/p&gt;
+
+&lt;p&gt;Keeping a lot of data in the view bag presents a lot of opportunities for error. We don’t have any sort of intellisense with the dynamic view object and I frequently use the wrong name in the controller and view, by mistake. Finally building the drop down box using the HTML helper requires some nasty looking casting. Any time I cast I feel uncomfortable.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;@Html.DropDownListFor(x=&amp;gt;x.province, (IEnumerable)ViewBag.Provinces)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now a lot of people prefer transferring the data as part of the model; this is the second approach. There is nothing special about this approach you just put some collections into the model.&lt;/p&gt;
+
+&lt;p&gt;I’ve always disliked this approach because it mixes the data needed for editing with the data for the drop downs which is really incidental. This data seems like a view level concern that really doesn’t belong in the view model. This is a bit of a point of contention and I’ve challenged more than one person to a fight to the death over this very thing.&lt;/p&gt;
+
+&lt;p&gt;So neither option is particularly palatable. What we need is a third option and the new dependency injection capabilities of ASP.net MVC open up just such an option: we can inject the data services directly into the view. This means that we can consume the data right where we retrieve it without having to hammer it into some bloated DTO. We also don’t have to worry about annotating our action or filling it with junk view specific code.&lt;/p&gt;
+
+&lt;p&gt;To start let’s create a really simple service to return states.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;public interface IStateService
+{
+    IEnumerable List();
+}
+
+public class StateService : IStateService
+{
+    public IEnumerable List() {
+        return new List
+        {
+            new State { Abbreviation = &quot;AK&quot;, Name = &quot;Alaska&quot; },
+            new State { Abbreviation = &quot;AL&quot;, Name = &quot;Alabama&quot; }
+        };
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Umm, looks like we’re down to only two states, sorry Kentucky.&lt;/p&gt;
+
+&lt;p&gt;Now we can add this to our container. I took a singleton approach and just registered a single instance in the Startup.cs.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;services.AddInstance(typeof(IStateService), new StateService());
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This is easily added the the view by adding&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;@inject ViewInjection.Services.IStateService StateService
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;As the first line in the file. Then the final step is to actually make use of the service to populate a drop down box:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;div class=&quot;col-lg-12&quot;&amp;gt;
+    @Html.DropDownList(&quot;States&quot;, StateService.List().Select(x =&amp;gt; new SelectListItem { Text = x.Name, Value = x.Abbreviation }))
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That’s it! Now we have a brand new way of getting the data we need to the view without having to clutter up our controller with anything that should be contained in the view.&lt;/p&gt;
+
+&lt;p&gt;What do you think? Is this a better approach? Have I brought fire down upon us all with this? Post a comment. Source is at &lt;a href=&quot;https://github.com/stimms/ViewInjection&quot;&gt;https://github.com/stimms/ViewInjection&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Jun 2015 16:09:05 -0400</pubDate>
+        <link>http://www.westerndevs.com/2015/06/09/getting-lookup-data-into-you-view.html</link>
+        <guid isPermaLink="true">http://www.westerndevs.com/2015/06/09/getting-lookup-data-into-you-view.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>MVC 6 cache tag helper</title>
+        <description>&lt;p&gt;In this post in my series exploring the ASP.NET 5 MVC 6 tag helpers, I will dig into the Cache Tag Helper. The Cache Tag Helper is a little different than most of the other tag helpers we talked about because it doesn’t target a standard HTML tag. Instead, it wraps arbitrary content and allows those contents to be cached in memory based on the parameters you specify.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-it-works&quot;&gt;How it works?&lt;/h2&gt;
+
+&lt;p&gt;Simply wrap the contents you want cached with a __ tag and the contents of the tag will be cached in memory. Before processing the contents of the cache tag, the tag helper will check to see if the contents have been stored in the MemoryCache. If the contents are found in the cache, then the cached contents are sent to Razor. If the contents are not found, then Razor will process the contents and the tag helper will store it in the memory cache for next time. By default, the cache tag helper is able to generate a unique ID based on the context of the cache tag helper.&lt;/p&gt;
+
+&lt;p&gt;Here is a simply example that would cache the output of a view component for 10 minutes.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;cache expires-after=&quot;@TimeSpan.FromMinutes(10)&quot;&amp;gt;    
+    @Html.Partial(&quot;_WhatsNew&quot;)
+    *last updated  @DateTime.Now.ToLongTimeString()
+&amp;lt;/cache&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The Cache tag will not be included in the generated HTML. It is purely a server side tag. In the example above, only the results of the &lt;em&gt;WhatsNew&lt;/em&gt; partial view and the _*last updated _text would be sent to the browser. Any subsequent requests within the 10 minute span simply return the cached contents instead of calling the partial view again. On the first request after the 10 minutes has passed, the contents would be regenerated and cached again for another10 minutes.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note, this should work out-of-the box but there is a strange bug with the way the memory cache is initialized in MVC 6 beta 4. For the cache to work properly in this version, add _services.AddSingleton(); _to the end of your Startup.ConfigurServices method.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;cache-expiry&quot;&gt;Cache Expiry&lt;/h2&gt;
+
+&lt;p&gt;If no specific expiry is specified, the contents will be cached as long as the memory cache decides to hang on to the item which is likely the lifetime of the application. Chances are this is not the behaviour you want. You will likely want to use one of the 3 options for expiring the cached contents for the Cache Tag Helper: expires-after, expires-on and expires-sliding.&lt;/p&gt;
+
+&lt;h4 id=&quot;expires-after&quot;&gt;expires-after&lt;/h4&gt;
+
+&lt;p&gt;Use the &lt;em&gt;expires-after&lt;/em&gt; attribute to expire the cache entry after a specific amount of time has passed since it was added to the cache. This attribute expects a TimeSpan value. For example, you expire an item 5 seconds after it was cached:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;cache expires-after=&quot;@TimeSpan.FromSeconds(5)&quot;&amp;gt;
+    &amp;lt;!--View Component or something that gets data from the database--&amp;gt;
+    *last updated  @DateTime.Now.ToLongTimeString()
+&amp;lt;/cache&amp;gt;  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;expires-on&quot;&gt;expires-on&lt;/h4&gt;
+
+&lt;p&gt;Use the _expires-on _attribute to expire the cache entry at a specific time. This attribute expects a DateTime value. For example, imagine your system has some backend processing that you know will be updated by the end of each day. You could specify the cache to expire at the end of the day as follows:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;cache expires-on=&quot;@DateTime.Today.AddDays(1).AddTicks(-1)&quot;&amp;gt;
+    &amp;lt;!--View Component or something that gets data from the database--&amp;gt;
+    *last updated  @DateTime.Now.ToLongTimeString()
+&amp;lt;/cache&amp;gt;  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;expires-sliding&quot;&gt;expires-sliding&lt;/h4&gt;
+
+&lt;p&gt;Use the &lt;em&gt;expires-sliding&lt;/em&gt; attribute to expire the cache entry after it has not been accessed for a specified amount of time. This attribute expects a TimeSpan value.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;cache expires-sliding=&quot;@TimeSpan.FromMinutes(5)&quot;&amp;gt;
+    &amp;lt;!--View Component or something that gets data from the database--&amp;gt;
+    *last updated  @DateTime.Now.ToLongTimeString()
+&amp;lt;/cache&amp;gt;   
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;vary-by--complex-cache-keys&quot;&gt;Vary-by / Complex Cache Keys&lt;/h2&gt;
+
+&lt;p&gt;The cache tag helper builds cache keys by generating an id that is unique to the context of the cache tag. This ensures that you can have multiple cache tags on a single page and the contents will not override each other in the cache. You can also tell the tag helper to build more complex cache keys using a combination of the &lt;em&gt;vary-by&lt;/em&gt; attributes. Building these complex keys allows the cache tag helper to cache different contents for different requests based on nearly any criteria you can conceive. A very simple example is caching different contents for each user by adding the &lt;em&gt;vary-by-user&lt;/em&gt; attribute:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;cache vary-by-user=&quot;true&quot;&amp;gt; 
+    &amp;lt;!--View Component or something that gets data from the database--&amp;gt; 
+    *last updated @DateTime.Now.ToLongTimeString() 
+&amp;lt;/cache&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You can specify any combination of &lt;em&gt;vary-by&lt;/em&gt; attributes. The cache tag helper will build a key that is a composite of the generated unique id for that tag plus all the values from the &lt;em&gt;vary-by&lt;/em&gt; attributes.&lt;/p&gt;
+
+&lt;h4 id=&quot;vary-by-user&quot;&gt;vary-by-user&lt;/h4&gt;
+
+&lt;p&gt;Use this attribute to cache different contents for each logged in user. The username for the logged in user will be added to the cache key. This attribute expects a boolean value. &lt;em&gt;See example above.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;vary-by-route&quot;&gt;vary-by-route&lt;/h4&gt;
+
+&lt;p&gt;Use this attribute to cache different contents based on a set of route data parameters. This attribute expects a comma-separated list of route data parameter names. The values of those route parameters will be added to the cache key.&lt;/p&gt;
+
+&lt;p&gt;For example, the following cache tag would cache different contents based on the &lt;em&gt;id&lt;/em&gt; route parameter:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;cache vary-by-route=&quot;id&quot;&amp;gt;
+    &amp;lt;!--View Component or something that gets data from the database--&amp;gt;
+    *last updated  @DateTime.Now.ToLongTimeString()
+&amp;lt;/cache&amp;gt;  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;vary-by-query&quot;&gt;vary-by-query&lt;/h4&gt;
+
+&lt;p&gt;The &lt;em&gt;vary-by-query&lt;/em&gt; attribute allows you to cache different contents based on the query parameters for the current request. This attribute expects a comma-separated list of query string parameter names. The value of those query string parameters will be added to the cache key.&lt;/p&gt;
+
+&lt;p&gt;For example, the following cache tag would cache different contents for each unique value of the &lt;em&gt;search&lt;/em&gt; query parameter:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;cache vary-by-query=&quot;search&quot;&amp;gt;
+    &amp;lt;!--View Component or something that gets data from the database--&amp;gt;
+    *last updated  @DateTime.Now.ToLongTimeString()
+&amp;lt;/cache&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;vary-by-cookie&quot;&gt;vary-by-cookie&lt;/h4&gt;
+
+&lt;p&gt;The &lt;em&gt;vary-by-cookie&lt;/em&gt; attributes allows you to cache different contents based on values stored in a cookie. This attribute expects a comma-separated list of cookie names. The values of the specified cookie names will be added to the cache key.&lt;/p&gt;
+
+&lt;p&gt;For example, the following cache tag would cache different contents based on the value of the &lt;em&gt;MyAppCookie&lt;/em&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;cache vary-by-cookie=&quot;MyAppCookie&quot;&amp;gt;
+    &amp;lt;!--View Component or something that gets data from the database--&amp;gt;
+    *last updated  @DateTime.Now.ToLongTimeString()
+&amp;lt;/cache&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;vary-by-header&quot;&gt;vary-by-header&lt;/h4&gt;
+
+&lt;p&gt;The &lt;em&gt;vary-by-header&lt;/em&gt; attribute allows you to cache different contents based on the value of a specific request header. This attribute expects a single header name. For example, the following cache tag would cache different results based on the User-Agent header:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;cache vary-by-header=&quot;User-Agent&quot;&amp;gt;
+    &amp;lt;!--View Component or something that gets data from the database--&amp;gt;
+    *last updated  @DateTime.Now.ToLongTimeString()
+&amp;lt;/cache&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;vary-by&quot;&gt;vary-by&lt;/h4&gt;
+
+&lt;p&gt;Finally, the &lt;em&gt;vary-by&lt;/em&gt; attribute allows you to cache different contents based on any arbitrary string value. This attribute can be used as a fall-back in case any of the other vary-by attributes do not meet your needs.&lt;/p&gt;
+
+&lt;p&gt;For example, the following cache tag would cache different results based on the value of a ProductId that is available on the ViewBag:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;cache vary-by=&quot;@ViewBag.ProductId&quot;&amp;gt;
+    &amp;lt;!--View Component or something that gets data from the database--&amp;gt;
+    *last updated  @DateTime.Now.ToLongTimeString()
+&amp;lt;/cache&amp;gt;  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;complex-keys&quot;&gt;Complex Keys&lt;/h4&gt;
+
+&lt;p&gt;As mentioned earlier, you can specify any number of vary-by parameters and the cache tag helper will build a composite key. Here is an example of a cache tag that will cache different results for each user and &lt;em&gt;id&lt;/em&gt; route parameter:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;cache vary-by-user=&quot;true&quot; vary-by-route=&quot;id&quot;&amp;gt;
+    &amp;lt;!--View Component or something that gets data from the database--&amp;gt;
+    *last updated  @DateTime.Now.ToLongTimeString()
+&amp;lt;/cache&amp;gt;  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&quot;cache-priority&quot;&gt;Cache Priority&lt;/h2&gt;
+
+&lt;p&gt;The contents of a cache tag are stored in an IMemoryCache which is limited by the amount of available memory. If the host process starts to run out of memory, the memory cache might purge items from the cache to release memory. In cases like this, you can tell the memory cache which items are considered a lower priority using the _priority _attribute. For example, the following cache tag is specified as low priority:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;@using Microsoft.Framework.Caching.Memory
+
+&amp;lt;cache vary-by-user=&quot;true&quot; 
+       priority=&quot;@CachePreservationPriority.Low&quot;&amp;gt;
+    &amp;lt;!--View Component or something that gets data from the database--&amp;gt;
+    *last updated  @DateTime.Now.ToLongTimeString()
+&amp;lt;/cache&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Possible values for CacheItemPriority are Low, Normal, High and NeverRemove.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://github.com/aspnet/Mvc/blob/dev/src/Microsoft.AspNet.Mvc.TagHelpers/CacheTagHelper.cs&quot;&gt;CacheTagHelper implementation&lt;/a&gt; uses an instance of an IMemoryCache which stores cache entries in memory in the local process. Anything that causes the host process to shutdown / restart will cause a full loss of all entries in the cache. For example, restarting an IIS App Pool or scaling down an Azure instance would cause the memory cache to reset. In this case, the CacheTagHelper would rebuild the contents on the next request. In a cloud service like Azure you never know when your website might get moved to a new server so this could happen at any time. The &lt;a href=&quot;https://github.com/aspnet/Caching/blob/dev/src/Microsoft.Framework.Caching.Memory/MemoryCache.cs&quot;&gt;MemoryCache&lt;/a&gt; is not a durable storage mechanism so it is important not to treat it as one.&lt;/p&gt;
+
+&lt;p&gt;Another important scenario to consider is when you have multiple load balanced servers. You might get strange / unexpected results if you have &lt;a href=&quot;https://technet.microsoft.com/en-us/library/dd443543(v=ws.10).aspx&quot;&gt;server affinity / application request routing&lt;/a&gt; turned off. The &lt;a href=&quot;https://github.com/aspnet/Caching/blob/dev/src/Microsoft.Framework.Caching.Memory/MemoryCache.cs&quot;&gt;MemoryCache&lt;/a&gt; is not a distributed cache. Each server would have it’s own memory cache with potentially different contents for each cache tag helper. If the client refreshes a page 3 times and those requests are routed to 3 different servers, then the client could potentially see 3 different contents. Depending on the scenario, this could be very confusing for the user. The solution here would be to avoid turning off ARR / server affinity in a load balanced deployment scenario. By turning this feature on you will ensure that a specific client’s requests are always routed to the same server.&lt;/p&gt;
+
+&lt;p&gt;The Cache cache tag helper is one of the more unique tag helpers in MVC 6. It provides a flexible and convenient approach to caching the output of a portion of a page and can be a useful tool for improving performance of MVC 6 applications.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;May 4, 2015: Updated with Limitations sections as suggested by Rick Anderson in the comments&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 03 Jun 2015 16:09:05 -0400</pubDate>
+        <link>http://www.westerndevs.com/2015/06/03/mvc-6-cache-tag-helper.html</link>
+        <guid isPermaLink="true">http://www.westerndevs.com/2015/06/03/mvc-6-cache-tag-helper.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
